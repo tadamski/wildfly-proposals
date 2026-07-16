@@ -4,7 +4,7 @@ categories:
   - bootable-jar
   - cloud
   - wf-galleon
-stability-level: community
+stability-level: default
 issue: https://github.com/wildfly/wildfly-proposals/issues/747
 feature-team:
  developer: jfdenise
